@@ -1,4 +1,4 @@
-Egyszerű adatbázis kezelő szoftver, ami személyes addatokat tárolására alkalmas.
+Egyszerű adatbázis kezelő szoftver, ami személyes adatokat tárolására alkalmas.
 A szoftver teszt fázisban van. Csak saját felelősségre használd.
 
 Telepítési útmutató:
