@@ -5,3 +5,7 @@ Használat:
  - Letöltöd az adatbazis.exe nevű fájlt és futtatod
 
 Csak személyes használatra!
+
+Adatbázis v1.2 beta
+ - MySQL bejelentkezési felület.
+ - Hibajavítások
